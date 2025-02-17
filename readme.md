@@ -1,1 +1,1 @@
-Hej detta är ett jättebra gitrepo.
+Hello, this is a greate git repo.
