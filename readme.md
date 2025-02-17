@@ -1,1 +1,1 @@
-Hello, this is a git repo.
+Hello, this is a greate git repo.
