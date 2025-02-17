@@ -1,1 +1,1 @@
-Hej detta är ett gitrepo.
+Hello, this is a git repo.
